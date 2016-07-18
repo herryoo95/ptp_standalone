@@ -1,6 +1,8 @@
 This is a stand alone implementation and test of the plastic terramechanics particle system.
 To visualize the simulation the OpenGL is used:
 
+- build with 'make'
+- run with '/terra'
 - for test simulation with virtual position behavior
   . option 'k' used for lateral test simulation.
   . option 'j' used for virtical test simulation.
