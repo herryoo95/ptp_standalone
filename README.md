@@ -6,7 +6,9 @@ To visualize the simulation the OpenGL is used:
 - for test simulation with virtual position behavior
   . option 'k' used for lateral test simulation.
   . option 'j' used for virtical test simulation.
+
 - for test simulation with real position behavior from real experiment
+  . in this case we use the experiment data to control the contact object position behavior (Lateral: 2011_04_05_11_50_22log.csv and Virtical: 2011_05_04_14_12_14log.csv)
   . option 'K' used for lateral test simulation.
   . option 'J' used for virtical test simulation.
 
